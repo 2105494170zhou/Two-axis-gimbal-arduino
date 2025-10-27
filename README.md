@@ -4,7 +4,7 @@ I built a 2-axis phone gimbal so my running videos are smoother.
 It uses SimpleFOC for motor control and an MPU6050 IMU.
 
 ## How to run
-1. Open `src/gimbal.ino` in Arduino IDE.
+1. Open the code in Arduino IDE.
 2. Install SimpleFOC + Adafruit_MPU6050.
 3. Select the right board/port, then upload.
 
